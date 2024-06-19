@@ -34,15 +34,3 @@ Une application simple de conversion de devises implémentée en HTML, CSS, et J
 ## 🤝 **Contribution**
 
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à ouvrir une pull request ou à signaler un problème.
-
-## 📜 **Licence**
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Profitez de l'application ! 💸🌟
-
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Currency Exchange Screenshot" width="300">
-</div>
